@@ -10,6 +10,10 @@ The repository currently includes LS-DYNA finite element models of:
 - Honda Super Cub
 - Honda Gold Wing GL1800
 
+## How to use
+
+After cloning the repository or downloading the zip-file corresponding to the model you are interested in, you can unzip the zip-file. In the extracted folder, you can find a file that  starts with "00_MAIN_XXX" which is the main model file.
+
 ## Licence
 
 Unless otherwise stated, simulation model files are licensed under
@@ -36,8 +40,5 @@ Available at: https://www.ircobi.org/wordpress/downloads/irc25-asia/pdf-files/A2
 
 ## Commercial Licensing
 
-Organizations interested in proprietary or commercial use may contact:
+Organizations interested in proprietary or commercial use may contact: ALV-OpenSourceVehicleModels@autoliv.com
 
-ALV-OpenSourceVehicleModels@autoliv.com
-
-## The master/main model file starts with "00_MAIN_XXX"
